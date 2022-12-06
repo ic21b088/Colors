@@ -7,7 +7,8 @@ import org.springframework.boot.test.context.SpringBootTest;
 class ColorsApplicationTests {
 
 	@Test
-	void contextLoads() {
+	void testColors() {
+
 	}
 
 }
